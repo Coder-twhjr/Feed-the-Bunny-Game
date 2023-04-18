@@ -1,1 +1,1 @@
-# Feed-the-Bunny-Game
+# bunny_feeder.github.io
